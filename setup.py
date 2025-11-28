@@ -18,7 +18,7 @@ setup(
         "torch_cluster",
         "tqdm",
         "numpy",
-        "sklearn",
+        "scikit-learn",
         "atom3d",
     ],
 )
